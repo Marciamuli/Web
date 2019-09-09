@@ -59,3 +59,25 @@ Um dos maiores atrativos do CSS é separar a apresentação em um arquivo extern
 - Fazer pequenas animações, transições;
 - Ocultar elementos, entre tantas coisas.
 
+### Benefícios de adotar o CSS
+
+- A separação da folha de estilo da marcação;
+- Facilidade de manutenção visual do site através de um arquivo externo;
+- Disponibilidade de diretiva para construção de layouts que atendam diferentes tipos de dispositivos.
+- Aumento na velocidade de carregamento de páginas.
+
+### A Estrutura
+
+__Seletor__: Ele é responsável por selecionar o elemento, ou elementos HTML que receberão determinado estilo.
+
+__Propriedade__: Se refere às características visuais que um elemento pode possuir. Tomamos como comparação qualquer objeto que podemos medir suas dimensões. Altura e largura seriam propriedades deste objeto quando pensamos em tamanho. Os elementos HTML também possuem propriedades de altura e largura.
+
+__Valor__: Corresponde ao produto da propriedade. Ou seja, ele define como o elemento será apresentado. Se um elemento tem uma altura, o valor corresponde ao seu tamanho seguida pela sua unidade de medida. Um bloco com 2 cm de altura possui a propriedade altura cujo valor é 2 cm.
+
+![regra-css](https://user-images.githubusercontent.com/6373438/64572493-efbb3500-d33d-11e9-8332-157970f0371d.jpg)
+
+### Tipos de Seletores
+
+- __Seletor__ – também conhecido como a tag na qual queremos aplicar a formatação;
+- __ID__ – quando você coloca um nome identificador para o elemento;
+- __Classe__ – que trabalha de forma semelhante ao ID, mudando apenas a forma como é feita a declaração no arquivo HTML e a chamada dele no arquivo CSS.
