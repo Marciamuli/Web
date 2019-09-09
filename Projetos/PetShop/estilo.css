@@ -1,0 +1,17 @@
+* body {
+	background: #DADFF7;
+}
+
+h3 {
+	font-family: Roboto, sans-serif;
+}
+
+a {
+	font-family: Roboto, sans-serif;
+	text-decoration: none;
+	color: #39393A;
+}
+
+a:hover {
+	color: #FE5F55;
+}
