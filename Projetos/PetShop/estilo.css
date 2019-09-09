@@ -1,5 +1,5 @@
 * body {
-	background: #DADFF7;
+	background: #FFF;
 }
 
 h3 {
@@ -14,4 +14,10 @@ a {
 
 a:hover {
 	color: #FE5F55;
+}
+
+p {
+	font-family: Gayathri, sans-serif;
+	font-size: 18px;
+	line-height: 22px;
 }
