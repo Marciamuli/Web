@@ -30,3 +30,32 @@ Tendo isso em mente, você já saberá muito mais do que a maioria dos profissio
 </body>
 </html>
 ```
+
+## O que é CSS?
+
+CSS, sigla em inglês para Cascading Style Sheet, que em português quer dizer Folha de Estilo em Cascata, é uma linguagem que cuida da apresentação visual de páginas web através de regras de estilos. Podemos resumir que é uma linguagem de estilização ou apresentação.
+
+A história da Folha de Estilo começou a surgir quando seu criador Håkon Wium Lie constatou que não havia como estilizar documentos em uma plataforma para publicação eletrônica. Em novembro de 1994 em Chicago, Håkon apresentou a proposta inicial do CSS em uma Web conferência.
+
+Esta linguagem consiste em dar forma aos elementos HTML presentes na página web. HTML e CSS são parceiros. O CSS só existe em função do HTML.
+
+Ela pega uma página praticamente sem estilos e enriquece com cores, formas, tamanhos e até animações. E esta linguagem que define qual a cor de um texto, onde determinado bloco será posicionado, entre outros estilos.
+
+E o que é muito bacana é que o CSS também é um recurso acessível para estilizar o que você projetou em seu editor gráfico através de suas propriedades.
+
+Um dos maiores atrativos do CSS é separar a apresentação em um arquivo externo. Com isso o HTML, que antes estava com a função de marcar e apresentar visualmente o conteúdo, ficou responsável por somente estruturar o conteúdo através da marcação.
+
+### O que é possível fazer com CSS?
+
+- Estruturar o layout do site;
+- Posicionar elementos na página web;
+- Mudar a ordem de apresentação dos elementos HTML;
+- Colocar espaçamentos entre elementos;
+- Preencher com espaço vazio entre a borda de um bloco e seu conteúdo;
+- Colocar diferentes tipos de bordas de diferentes cores nos blocos;
+- Inserir bordas arredondadas aos blocos;
+- Colocar cor de fundo, gradiente ou imagem de fundo aos blocos;
+- Trabalhar com diversas propriedades para tipografia. Inserir sombras em textos e blocos;
+- Fazer pequenas animações, transições;
+- Ocultar elementos, entre tantas coisas.
+
